@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,laravel,flutter,dart,java,androidstudio,git,github,vscode&theme=dark" />
 </p>
 
 ---
