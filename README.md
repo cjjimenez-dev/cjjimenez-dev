@@ -1,23 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:1f2937,100:3b82f6&height=220&section=header&text=Christian%20John%20G.%20Jimenez&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=36&desc=MIS%20Programmer%20%E2%80%A2%20Full-Stack%20Web%2C%20Mobile%20%26%20Desktop%20Systems%20Developer&descAlignY=60&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Christian%20John%20G.%20Jimenez&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MIS%20Programmer%20%7C%20Full-Stack%20Web%2C%20Mobile%20%26%20Desktop%20Developer&descAlignY=58&descSize=15"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Christian+John+(CJ)!;%F0%9F%92%BB+MIS+Programmer+%40+BCS+Systems+%26+Technologies+Inc.;%E2%9A%A1+C%23+%2F+.NET+8+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+T-SQL;%F0%9F%9B%A0%EF%B8%8F+Enterprise+POS%2FERP+Reconciliation+%26+Middleware+Architecture;%F0%9F%9A%80+BSIT+%40+Quezon+City+University+%E2%80%A2+Open+to+Collaborations)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Christian+John+CJ!;%F0%9F%92%BB+MIS+Programmer+%40+BCS+Systems+%26+Technologies;%E2%9A%A1+C%23+%2F+.NET+8+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;%F0%9F%9B%A0%EF%B8%8F+Enterprise+POS%2FERP+Reconciliation+%26+Middleware;%F0%9F%9A%80+Open+to+Freelance+%26+Enterprise+Projects" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=cjjimenez-dev&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/cjjimenez-dev)
-[![GitHub Followers](https://img.shields.io/github/followers/cjjimenez-dev?style=for-the-badge&color=3b82f6&labelColor=161b22)](https://github.com/cjjimenez-dev)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cjjimenez-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimenez-christian-john-b38b1b3a7)
+<a href="https://github.com/cjjimenez-dev">
+  <img src="https://komarev.com/ghpvc/?username=cjjimenez-dev&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+<a href="https://github.com/cjjimenez-dev">
+  <img src="https://img.shields.io/github/followers/cjjimenez-dev?style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="Followers" />
+</a>
+<a href="https://cjjimenez-dev.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/jimenez-christian-john-b38b1b3a7">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
 ```yaml
 Name       : Christian John G. Jimenez (CJ)
@@ -25,14 +35,14 @@ Location   : Quezon City, Philippines 🇵🇭
 Role       : MIS Programmer / Desktop & Full-Stack Systems Developer
 Education  : BS in Information Technology @ Quezon City University (2022 – Present)
 Core Focus : C# / .NET Desktop & Middleware, React/Next.js Web Platforms, Supabase RLS, T-SQL
-Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Freelance Projects 🚀
+Status     : Open to Freelance, Enterprise & Remote Work 🚀
 ```
 
-> **MIS Programmer & Full-Stack Software Developer** specializing in enterprise transaction reconciliation, high-throughput integration middleware, and robust web applications. Experienced in developing mission-critical C# desktop solutions synchronizing nationwide AutoCount POS registers with SAP General Ledger accounts, unattended smart IoT kiosk systems, and real-time cloud web applications.
+> **MIS Programmer & Full-Stack Software Developer** specializing in enterprise transaction reconciliation, high-throughput integration middleware, and robust cloud applications. Experienced in developing mission-critical C# desktop solutions synchronizing nationwide AutoCount POS registers with SAP General Ledger accounts, unattended smart IoT kiosk systems, and real-time cloud web applications.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -44,27 +54,26 @@ Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Fr
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### 🌐 Frontend & Web Engineering
 ![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PWA](https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-### ⚙️ Backend, Systems & APIs
+### ⚙️ Backend & Systems Architecture
 ![.NET 8](https://img.shields.io/badge/.NET_8_%2F_4.8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32_P%2FInvoke-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Supabase Edge Functions](https://img.shields.io/badge/Deno_%2F_Edge_Functions-000000?style=for-the-badge&logo=deno&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Supabase Edge Functions](https://img.shields.io/badge/Deno_Edge_Functions-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-### 🗄️ Database, Storage & Cloud
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase_RLS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -72,14 +81,13 @@ Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Fr
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🛠️ Developer Tools & Hardware Integrations
+### 🛠️ Tools & Integrations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_IDE-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![WMI Spooler](https://img.shields.io/badge/WMI_Printer_Hardware-4B5563?style=for-the-badge&logo=hardware&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
 
@@ -89,16 +97,16 @@ Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Fr
 
 | Role | Organization | Period | Key Highlights |
 | :--- | :--- | :--- | :--- |
-| 💻 **MIS Programmer / Desktop Developer** | **BCS Systems and Technologies Inc.** | *Jul 2026 – Present* | Engineered **Cebuana ReFind** (AutoCount POS to SAP GL reconciliation with multi-CTE T-SQL), developed **WBox–AutoCount Bridge Middleware** (.NET 8 multi-branch POS sync for CoCo Fresh Tea & Juice), and automated high-throughput ClosedXML Excel reports with SQLite projection caching. |
+| 💻 **MIS Programmer / Desktop Developer** | **BCS Systems and Technologies Inc.** | *Jul 2026 – Present* | Developed **Cebuana ReFind** (AutoCount POS to SAP GL reconciliation with multi-CTE T-SQL), engineered **WBox–AutoCount Bridge Middleware** (.NET 8 multi-branch POS sync for CoCo Fresh Tea & Juice), and automated high-throughput ClosedXML Excel reports with SQLite projection caching. |
 | ⚡ **IT Programmer** | **Lucky Boba Food & Beverage Trading Corp** | *Feb – Jun 2026* | Architected multi-branch POS PWA (8 user roles, offline sync queue), Self-Order Kiosk, and Queue Display with React 19 & Laravel 12. Integrated customer Flutter mobile app for real-time loyalty and order tracking. |
 | 🏛️ **OJT Intern (Curriculum Division)** | **Department of Education (DepEd NCR)** | *Sep – Dec 2025* | Audited regional curriculum databases, performed systematic data encoding, and digitized inter-departmental routing workflows. |
 | 🏦 **Investments Accounting Intern** | **Social Security System (SSS)** | *Jun – Aug 2023* | Managed financial investment documentation, high-accuracy government ledger encoding, and regulatory compliance workflows. |
 
 ---
 
-## 🚀 Featured Enterprise & Flagship Projects
+## 🚀 Featured Projects
 
-### 🏢 Enterprise Company Solutions
+### 🏢 Enterprise Solutions
 
 | Project | Highlights & Capabilities | Tech Stack |
 | :--- | :--- | :--- |
@@ -124,16 +132,16 @@ Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Fr
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cjjimenez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjjimenez-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cjjimenez-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjjimenez-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=ffffff" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cjjimenez-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cjjimenez-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="175"/>
 
 </div>
 
@@ -158,16 +166,16 @@ Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Fr
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="mailto:jimenezchristianjohngran07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jimenez-christian-john-b38b1b3a7">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://cjjimenez-dev.vercel.app">
@@ -175,15 +183,11 @@ Status     : Employed @ BCS Systems & Tech • Open to Impactful Enterprise & Fr
 </a>
 &nbsp;
 <a href="https://github.com/cjjimenez-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<sub>⚡ Crafted with passion by <b>Christian John G. Jimenez</b> • Built for performance, security, and enterprise reliability.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,70:161b22,100:0d1117&height=110&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&animation=twinkling"/>
 
 </div>
