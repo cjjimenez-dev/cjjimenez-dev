@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Christian%20John%20G.%20Jimenez&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MIS%20Programmer%20%7C%20Full-Stack%20Web%2C%20Mobile%20%26%20Desktop%20Developer&descAlignY=58&descSize=15"/>
+# 👨‍💻 Christian John G. Jimenez
+### ⚡ MIS Programmer • Full-Stack Web, Mobile & Desktop Systems Developer
+**Quezon City, Philippines 🇵🇭 • BSIT @ Quezon City University**
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Christian+John+CJ!;%F0%9F%92%BB+MIS+Programmer+%40+BCS+Systems+%26+Technologies;%E2%9A%A1+C%23+%2F+.NET+8+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;%F0%9F%9B%A0%EF%B8%8F+Enterprise+POS%2FERP+Reconciliation+%26+Middleware;%F0%9F%9A%80+Open+to+Freelance+%26+Enterprise+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Christian+John+(CJ)!;%F0%9F%92%BB+MIS+Programmer+%40+BCS+Systems+%26+Technologies;%E2%9A%A1+C%23+%E2%80%A2+.NET+8+%E2%80%A2+React+19+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;%F0%9F%9B%A0%EF%B8%8F+Enterprise+POS%2FERP+Reconciliation+%26+Middleware;%F0%9F%9A%80+Open+to+Freelance+%26+Enterprise+Projects" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,12 +15,15 @@
 <a href="https://github.com/cjjimenez-dev">
   <img src="https://komarev.com/ghpvc/?username=cjjimenez-dev&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
+&nbsp;
 <a href="https://github.com/cjjimenez-dev">
   <img src="https://img.shields.io/github/followers/cjjimenez-dev?style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="Followers" />
 </a>
+&nbsp;
 <a href="https://cjjimenez-dev.vercel.app">
   <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/jimenez-christian-john-b38b1b3a7">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -188,6 +193,6 @@ Status     : Open to Freelance, Enterprise & Remote Work 🚀
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&animation=twinkling"/>
+<sub>⚡ Crafted by <b>Christian John G. Jimenez</b> • Built for enterprise reliability, high-throughput systems, and modern web experiences.</sub>
 
 </div>
